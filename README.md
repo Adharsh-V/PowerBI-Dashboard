@@ -8,9 +8,6 @@ The dashboard enables stakeholders to monitor key business KPIs and identify tre
 
 ## 📊 Dashboard Preview
 
-![Performance Dashboard](IMAGE dashboard.png)
-
----
 
 ## 🔹 Key KPIs Tracked
 - **Total Revenue:** $105.48M  
