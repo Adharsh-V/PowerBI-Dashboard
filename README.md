@@ -73,10 +73,9 @@ This project is part of my **Data Analyst portfolio**, showcasing skills in:
 
 power-bi-dashboards/
 │
-├── dashboards/
-│   └── performance_dashboard.pbix
+├── dashboard.pbix
 │
 ├── images/
-│   └── performance-dashboard.png
+│   └── dashboard.png
 │
 └── README.md
