@@ -8,7 +8,7 @@ The dashboard enables stakeholders to monitor key business KPIs and identify tre
 
 ## 📊 Dashboard Preview
 
-![Performance Dashboard](images/performance-dashboard.png)
+![Performance Dashboard](IMAGE dashboard.png)
 
 ---
 
